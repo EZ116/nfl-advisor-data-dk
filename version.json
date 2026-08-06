@@ -1,7 +1,7 @@
 {
-  "version": "dk-2026-08-05",
-  "library_gz_size": 30238060,
+  "version": "dk-2026-08-06",
+  "library_gz_size": 30233504,
   "n_universes": 10000,
   "n_players": 310,
-  "updated": "2026-08-05T23:14:31.382148+00:00"
+  "updated": "2026-08-06T01:12:57.090834+00:00"
 }
